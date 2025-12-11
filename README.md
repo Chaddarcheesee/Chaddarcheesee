@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Hello everyone! My name is Hariwong Lonarai you can call me Cheese.
 
-🎮 I'm currently working on Game engine and others project
+🎮 I'm currently working on Java Game engine and others project
 
 🧠 I'm currently learning C/C++
 
